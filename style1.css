@@ -1,0 +1,123 @@
+* {
+    padding: 0;
+    margin: 0;
+    
+
+
+
+}
+
+#body {
+    background-color: #121212;
+    font-family: Arial, Helvetica, sans-serif;
+    width: 100vw;
+    height: 100vh;
+}
+
+.logo a img {
+    Width: 170px;
+    Height: 40px;
+    margin-Left: 18px;
+    margin-bottom: 5px;
+}
+
+.sidebar {
+    position: fixed;
+    left: 0;
+    top: 0;
+    bottom: 0;
+    width: 20vw;
+    background-color: #000000;
+    padding: 10px 5px 0 0;
+    
+}
+
+.navigaton ul {
+    list-style: none;
+    margin-top: 0px;
+}
+
+#white {
+    Width: 37.06px;
+    Height: 37.06px;
+    background-color: white;
+    margin-right: 5px;
+    border-radius: 2px;
+}
+
+#blue {
+    Width: 37.06px;
+    Height: 37.06px;
+    background-color: #004638;
+    margin-right: 5px;
+    border-radius: 2px;
+}
+
+.polices ul {
+    list-style: none;
+    margin-top: 5px;
+}
+
+.navigaton ul li a {
+    list-style: none;
+    margin-top: 5px;
+    color: #FFFFFF;
+    text-decoration: none;
+    font-weight: 500;
+    font-size: 15px;
+}
+.navigaton ul li a{
+    margin-top: 0;
+}
+
+.polices ul li a {
+    list-style: none;
+
+    color: #FFFFFF;
+    text-decoration: none;
+    font-weight: 500;
+    font-size: 14px;
+    
+}
+
+.app a {
+    text-decoration: none;
+    color: #b3b3b3;
+}
+.app>img{
+    margin-left: 20px;
+}
+
+.navigaton ul li .fa {
+    font-size: 20px;
+    margin-right: 10px;
+    padding: 10px;
+}
+
+#line img {
+    margin-right: 15px;
+    padding: 5px;
+
+}
+
+.navigaton ul li:hover {
+    background-color: #121212;
+}
+
+.navigaton ul li {
+    width: 100%;
+    padding: 0px;
+    margin: 0;
+    border-radius: 5px;
+}
+.polices ul li a:hover{
+    color: rgb(98, 0, 255);
+}
+.line{
+    border: 1px solid ;
+}
+.playlist-1{
+    margin-left: 20%;
+    color: #FFFFFF;
+}
+
